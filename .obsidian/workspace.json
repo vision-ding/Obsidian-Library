@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test_pull.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_pull.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_pull.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test_pull.md"
+                "file": "2.9 爬山 碎片化思考.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "d7aea26ffee1f1b4",
   "lastOpenFiles": [
-    "test_commit.md",
     "test_pull.md",
+    "test_commit.md",
     "2.9 爬山 碎片化思考.md",
     "slots/to-do.md",
     "test.cpp",
