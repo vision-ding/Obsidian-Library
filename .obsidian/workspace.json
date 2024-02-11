@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slots/to-do.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slots/to-do.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slots/to-do.md",
+                "file": "2.9 爬山 碎片化思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slots/to-do.md"
+                "file": "2.9 爬山 碎片化思考.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,13 +158,14 @@
   },
   "active": "d7aea26ffee1f1b4",
   "lastOpenFiles": [
+    "slots/to-do.md",
+    "2.9 爬山 碎片化思考.md",
     "test.cpp",
     "README.md",
     "Obsidian-Library/test.cpp",
     "Obsidian-Library",
     "十年前.md",
     "Obsidian入门.md",
-    "slots/to-do.md",
     "slots",
     "未命名.canvas",
     "未命名 1.canvas",
