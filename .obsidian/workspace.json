@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9be9c4f3e128ae87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.11.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "2.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "2.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md"
+                "file": "2.11.md"
               }
             }
           },
@@ -154,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9b8ef0efcfd177a",
+  "active": "9be9c4f3e128ae87",
   "lastOpenFiles": [
     "2.9 爬山 碎片化思考.md",
+    "2.11.md",
     "about obsidian/obsidian的设置.md",
     "README.md",
     "Obsidian入门.md",
