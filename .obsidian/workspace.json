@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "test_pull.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "39fda9ab5e3f0470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test_commit.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "test_commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "test_commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md"
+                "file": "test_commit.md"
               }
             }
           },
@@ -156,10 +169,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d7aea26ffee1f1b4",
+  "active": "39fda9ab5e3f0470",
   "lastOpenFiles": [
-    "slots/to-do.md",
+    "test_pull.md",
+    "test_commit.md",
     "2.9 爬山 碎片化思考.md",
+    "slots/to-do.md",
     "test.cpp",
     "README.md",
     "Obsidian-Library/test.cpp",
