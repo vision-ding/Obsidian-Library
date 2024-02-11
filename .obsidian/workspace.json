@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "7d5311c1ec2b52d5",
+    "id": "411be3aced80c08d",
     "type": "split",
     "children": [
       {
-        "id": "0061417a3d8aea20",
+        "id": "0e7f670ae1a6bc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b8ef0efcfd177a",
+            "id": "3f893d06448a9947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.9 爬山 碎片化思考.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9be9c4f3e128ae87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.11.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "efa337af37a9c4b9",
+    "id": "85a2669e93c6379b",
     "type": "split",
     "children": [
       {
-        "id": "fae201bcbd813580",
+        "id": "761ed01eb12a717c",
         "type": "tabs",
         "children": [
           {
-            "id": "07ef7cecde416420",
+            "id": "b4816241bac22f69",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "df0ce2177c73a32b",
+            "id": "df3e07425e2de7af",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "40dc4ae48c47685d",
+            "id": "519de2d0fa1f8584",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "e663fba95518f947",
+    "id": "7b176bb7540dc8df",
     "type": "split",
     "children": [
       {
-        "id": "0785b5068ace04f5",
+        "id": "e14bed5c264a3d08",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2c3f581c7286a4",
+            "id": "fde5d1aabde4e5f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,28 @@
             }
           },
           {
-            "id": "164a3fedc2ce4b11",
+            "id": "b7fcd6bd5c1f9d25",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2ebc03656951dcd0",
+            "id": "8bf42d1cb3f2a322",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian入门.md"
+              }
+            }
+          },
+          {
+            "id": "8ec6c5a0ad030726",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +124,7 @@
             }
           },
           {
-            "id": "4114dd8bcf276c28",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2.11.md"
-              }
-            }
-          },
-          {
-            "id": "df8775823f1bddaa",
+            "id": "eb33b6b6403a2495",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -159,27 +140,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:打开快速切换": false
     }
   },
-  "active": "9be9c4f3e128ae87",
+  "active": "b4816241bac22f69",
   "lastOpenFiles": [
-    "2.9 爬山 碎片化思考.md",
+    "about obsidian/obsidian 在PC间的同步方法.md",
     "2.11.md",
     "about obsidian/obsidian的设置.md",
-    "README.md",
-    "Obsidian入门.md",
     "slots/to-do.md",
-    "slots",
-    "about obsidian/obsidian 在PC间的同步方法.md",
     "about obsidian",
+    "2.10.md",
+    "2.9 爬山 碎片化思考.md",
+    "test_backup.md",
+    "test_pull.md",
+    "test_commit.md",
     "test.cpp",
-    "first note.md",
-    "Welcome.md"
+    "README.md",
+    "Obsidian-Library/test.cpp",
+    "Obsidian-Library",
+    "十年前.md",
+    "Obsidian入门.md",
+    "slots",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "牛顿.md",
+    "牛顿定律.md",
+    "2024-02-07.md",
+    "P.A.R.A.md"
   ]
 }
