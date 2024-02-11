@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "411be3aced80c08d",
+    "id": "7d5311c1ec2b52d5",
     "type": "split",
     "children": [
       {
-        "id": "0e7f670ae1a6bc7f",
+        "id": "8efcd7e45e9af405",
         "type": "tabs",
         "children": [
           {
-            "id": "3f893d06448a9947",
+            "id": "a936aac5be55e1e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "85a2669e93c6379b",
+    "id": "efa337af37a9c4b9",
     "type": "split",
     "children": [
       {
-        "id": "761ed01eb12a717c",
+        "id": "fae201bcbd813580",
         "type": "tabs",
         "children": [
           {
-            "id": "b4816241bac22f69",
+            "id": "07ef7cecde416420",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "df3e07425e2de7af",
+            "id": "df0ce2177c73a32b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "519de2d0fa1f8584",
+            "id": "40dc4ae48c47685d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "7b176bb7540dc8df",
+    "id": "e663fba95518f947",
     "type": "split",
     "children": [
       {
-        "id": "e14bed5c264a3d08",
+        "id": "0785b5068ace04f5",
         "type": "tabs",
         "children": [
           {
-            "id": "fde5d1aabde4e5f1",
+            "id": "1c2c3f581c7286a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "b7fcd6bd5c1f9d25",
+            "id": "164a3fedc2ce4b11",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,17 +103,7 @@
             }
           },
           {
-            "id": "8bf42d1cb3f2a322",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian入门.md"
-              }
-            }
-          },
-          {
-            "id": "8ec6c5a0ad030726",
+            "id": "2ebc03656951dcd0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,7 +114,15 @@
             }
           },
           {
-            "id": "eb33b6b6403a2495",
+            "id": "4114dd8bcf276c28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "df8775823f1bddaa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -140,38 +138,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": true,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "switcher:打开快速切换": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "b4816241bac22f69",
+  "active": "a936aac5be55e1e3",
   "lastOpenFiles": [
-    "about obsidian/obsidian 在PC间的同步方法.md",
     "2.11.md",
-    "about obsidian/obsidian的设置.md",
-    "slots/to-do.md",
-    "about obsidian",
-    "2.10.md",
     "2.9 爬山 碎片化思考.md",
-    "test_backup.md",
-    "test_pull.md",
-    "test_commit.md",
-    "test.cpp",
+    "about obsidian/obsidian的设置.md",
     "README.md",
-    "Obsidian-Library/test.cpp",
-    "Obsidian-Library",
-    "十年前.md",
     "Obsidian入门.md",
+    "slots/to-do.md",
     "slots",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "牛顿.md",
-    "牛顿定律.md",
-    "2024-02-07.md",
-    "P.A.R.A.md"
+    "about obsidian/obsidian 在PC间的同步方法.md",
+    "about obsidian",
+    "test.cpp",
+    "first note.md",
+    "Welcome.md"
   ]
 }
