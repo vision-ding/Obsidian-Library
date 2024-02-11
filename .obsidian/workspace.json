@@ -13,14 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "slots/to-do.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc77d145c8f703da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302efb34d72d5fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "2.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md",
+                "file": "2.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.9 爬山 碎片化思考.md"
+                "file": "2.10.md"
               }
             }
           },
@@ -152,17 +177,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "switcher:打开快速切换": false,
-      "remotely-save:Remotely Save": false
+      "switcher:打开快速切换": false
     }
   },
-  "active": "d7aea26ffee1f1b4",
+  "active": "302efb34d72d5fb4",
   "lastOpenFiles": [
-    "test_backup.md",
+    "2.11.md",
+    "2.10.md",
+    "slots/to-do.md",
     "2.9 爬山 碎片化思考.md",
+    "test_backup.md",
     "test_pull.md",
     "test_commit.md",
-    "slots/to-do.md",
     "test.cpp",
     "README.md",
     "Obsidian-Library/test.cpp",
