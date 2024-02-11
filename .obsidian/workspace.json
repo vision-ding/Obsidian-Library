@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slots/to-do.md",
-                "mode": "preview",
+                "file": "about obsidian/obsidian 在PC间的同步方法.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slots/to-do.md",
+                "file": "about obsidian/obsidian 在PC间的同步方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slots/to-do.md",
+                "file": "about obsidian/obsidian 在PC间的同步方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slots/to-do.md"
+                "file": "about obsidian/obsidian 在PC间的同步方法.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "d7aea26ffee1f1b4",
   "lastOpenFiles": [
+    "slots/to-do.md",
+    "about obsidian/obsidian 在PC间的同步方法.md",
+    "about obsidian",
     "2.11.md",
     "2.10.md",
-    "slots/to-do.md",
     "2.9 爬山 碎片化思考.md",
     "test_backup.md",
     "test_pull.md",
