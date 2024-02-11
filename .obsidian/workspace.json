@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39fda9ab5e3f0470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test_commit.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_commit.md",
+                "file": "test_pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_commit.md",
+                "file": "test_pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test_commit.md"
+                "file": "test_pull.md"
               }
             }
           },
@@ -169,10 +156,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "39fda9ab5e3f0470",
+  "active": "d7aea26ffee1f1b4",
   "lastOpenFiles": [
-    "test_pull.md",
     "test_commit.md",
+    "test_pull.md",
     "2.9 爬山 碎片化思考.md",
     "slots/to-do.md",
     "test.cpp",
