@@ -15,7 +15,6 @@
               "state": {
                 "file": "about obsidian/obsidian 在PC间的同步方法.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -157,8 +156,9 @@
   },
   "active": "d7aea26ffee1f1b4",
   "lastOpenFiles": [
-    "slots/to-do.md",
+    "about obsidian/obsidian的设置.md",
     "about obsidian/obsidian 在PC间的同步方法.md",
+    "slots/to-do.md",
     "about obsidian",
     "2.11.md",
     "2.10.md",
