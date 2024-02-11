@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "411be3aced80c08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9864a178f5d365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7aea26ffee1f1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slots/to-do.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85a2669e93c6379b",
+    "type": "split",
+    "children": [
+      {
+        "id": "761ed01eb12a717c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4816241bac22f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3e07425e2de7af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "519de2d0fa1f8584",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b176bb7540dc8df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e14bed5c264a3d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde5d1aabde4e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slots/to-do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7fcd6bd5c1f9d25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slots/to-do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bf42d1cb3f2a322",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slots/to-do.md"
+              }
+            }
+          },
+          {
+            "id": "8ec6c5a0ad030726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb33b6b6403a2495",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "d7aea26ffee1f1b4",
+  "lastOpenFiles": [
+    "test.cpp",
+    "README.md",
+    "Obsidian-Library/test.cpp",
+    "Obsidian-Library",
+    "十年前.md",
+    "Obsidian入门.md",
+    "slots/to-do.md",
+    "slots",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "牛顿.md",
+    "牛顿定律.md",
+    "2024-02-07.md",
+    "P.A.R.A.md"
+  ]
+}
