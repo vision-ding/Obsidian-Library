@@ -2,7 +2,7 @@
 
 在obsidian上下载第三方插件：git
 
-用tortoisegit生成本机的ssh的公钥和密钥
+用gitBash生成本机的ssh的公钥和密钥
 
 将公钥注册到github上
 

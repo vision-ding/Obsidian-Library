@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "8efcd7e45e9af405",
+        "id": "10abfbee647c983c",
         "type": "tabs",
         "children": [
           {
-            "id": "a936aac5be55e1e3",
+            "id": "81f4c50202e3d6b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "about obsidian/obsidian在移动端的同步方法.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3792b2d5a23459b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about obsidian/obsidian在移动端的同步方法.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about obsidian/obsidian在移动端的同步方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about obsidian/obsidian在移动端的同步方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +138,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about obsidian/obsidian在移动端的同步方法.md"
+              }
             }
           },
           {
-            "id": "df8775823f1bddaa",
+            "id": "a6cbc09d2fa5260d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,16 +168,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a936aac5be55e1e3",
+  "active": "3792b2d5a23459b7",
   "lastOpenFiles": [
-    "2.11.md",
-    "2.9 爬山 碎片化思考.md",
+    "about obsidian/Obsidian的同步.md",
     "about obsidian/obsidian的设置.md",
+    "about obsidian/obsidian 在PC间的同步方法.md",
+    "about obsidian/obsidian在移动端的同步方法.md",
+    "如何在iSH中操作git仓库.md",
+    "如何在iSH中配置git环境.md",
+    "slots/to-do.md",
+    "耐住性子，努力向前.md",
+    "2.9 爬山 碎片化思考.md",
     "README.md",
     "Obsidian入门.md",
-    "slots/to-do.md",
     "slots",
-    "about obsidian/obsidian 在PC间的同步方法.md",
     "about obsidian",
     "test.cpp",
     "first note.md",
