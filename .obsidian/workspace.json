@@ -13,27 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about obsidian/obsidian在移动端的同步方法.md",
+                "file": "如何在iSH中操作git仓库.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3792b2d5a23459b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about obsidian/obsidian在移动端的同步方法.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about obsidian/obsidian在移动端的同步方法.md",
+                "file": "如何在iSH中操作git仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about obsidian/obsidian在移动端的同步方法.md",
+                "file": "如何在iSH中操作git仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about obsidian/obsidian在移动端的同步方法.md"
+                "file": "如何在iSH中操作git仓库.md"
               }
             }
           },
@@ -168,13 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3792b2d5a23459b7",
+  "active": "81f4c50202e3d6b9",
   "lastOpenFiles": [
+    "如何在iSH中操作git仓库.md",
+    "about obsidian/obsidian在移动端的同步方法.md",
     "about obsidian/Obsidian的同步.md",
     "about obsidian/obsidian的设置.md",
     "about obsidian/obsidian 在PC间的同步方法.md",
-    "about obsidian/obsidian在移动端的同步方法.md",
-    "如何在iSH中操作git仓库.md",
     "如何在iSH中配置git环境.md",
     "slots/to-do.md",
     "耐住性子，努力向前.md",
