@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何在iSH中操作git仓库.md",
+                "file": "如何在iSH中配置git环境.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何在iSH中操作git仓库.md",
+                "file": "如何在iSH中配置git环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何在iSH中操作git仓库.md",
+                "file": "如何在iSH中配置git环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何在iSH中操作git仓库.md"
+                "file": "如何在iSH中配置git环境.md"
               }
             }
           },

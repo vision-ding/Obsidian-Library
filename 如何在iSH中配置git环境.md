@@ -15,4 +15,5 @@ iSH可以模拟linux环境，因此在iSH上的操作与真实的linux操作类�
 `git config --global user.name "name"`
 `git config --global user.email "email"`
 
-
+##### 添加安全目录
+`git config --global --add safe.directory "*"`  -- 不然在使用git时会出现报错：fatal:detected dubious ownership in repository
