@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10abfbee647c983c",
+        "id": "e8ccf5061b050432",
         "type": "tabs",
         "children": [
           {
-            "id": "81f4c50202e3d6b9",
+            "id": "99f3791a86f224a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何在iSH中配置git环境.md",
+                "file": "redis源码问题.md",
                 "mode": "preview",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何在iSH中配置git环境.md",
+                "file": "redis源码问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何在iSH中配置git环境.md",
+                "file": "redis源码问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何在iSH中配置git环境.md"
+                "file": "redis源码问题.md"
               }
             }
           },
           {
-            "id": "a6cbc09d2fa5260d",
+            "id": "df8775823f1bddaa",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -155,18 +154,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81f4c50202e3d6b9",
+  "active": "99f3791a86f224a9",
   "lastOpenFiles": [
+    "slots to-do.md",
+    "redis源码问题.md",
     "如何在iSH中操作git仓库.md",
-    "about obsidian/obsidian在移动端的同步方法.md",
-    "about obsidian/Obsidian的同步.md",
-    "about obsidian/obsidian的设置.md",
-    "about obsidian/obsidian 在PC间的同步方法.md",
     "如何在iSH中配置git环境.md",
-    "slots/to-do.md",
-    "耐住性子，努力向前.md",
-    "2.9 爬山 碎片化思考.md",
     "README.md",
+    "耐住性子，努力向前.md",
+    "about obsidian/Obsidian的同步.md",
+    "about obsidian/obsidian在移动端的同步方法.md",
+    "about obsidian/obsidian 在PC间的同步方法.md",
+    "2.11.md",
+    "2.9 爬山 碎片化思考.md",
+    "about obsidian/obsidian的设置.md",
     "Obsidian入门.md",
     "slots",
     "about obsidian",
