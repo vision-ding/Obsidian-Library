@@ -20,6 +20,27 @@ sdssplitargs    -- todo
 	- tcp属性设置nonblock, tcp_no_delay
 	 - epoll注册为read，回调函数是readQueryFromClient
 
+###### 解析client的请求命令：
+	执行函数是：processMultibulkBuffer;
+	redisClient的缩写是c;
+	读出的数据存在c->querybuf中;
+	解析的字段存放在c->argv中;
+	例如："*3\r\n$5\r\nhmget\r\n$4\r\nhfoo\r\n$6\r\nfield1\r\n"
+	解析结果是: 
+	argv[0] = "hmget", 
+	argv[1] = "hfoo", 
+	argv[2] = "field1", 
 
+###### 执行命令
+	根据argv[0]找到对应的redisCommand；
+	调用call函数；
+	执行redisCommand的proc；
+	数据都存在不同的数据结构里，proc实际上是处理对应的数据结构；
+	
+###### 将命令加到multi_state中
+
+	根据argv[0]找到对应的redisCommand；
+	由argv、argc和redisCommand构成一个multiCmd；
+	将multiCmd加到c->mstate.commands数组里；
 
 
