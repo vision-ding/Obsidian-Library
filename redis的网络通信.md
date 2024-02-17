@@ -13,18 +13,19 @@ sdssplitargs    -- todo
 
 ###### beforeSleep
 	unblocked fd： 在read的时候，不能阻塞，即加入了epoll，待有数据读的时候再read
-	 blocked fd: 没有加入epoll
+	blocked fd: 没有加入epoll
 
-###### client_fd ：
+###### accept client_fd ：
 	- 映射为一个redisClient对象
 	- tcp属性设置nonblock, tcp_no_delay
-	 - epoll注册为read，回调函数是readQueryFromClient
+	- epoll注册为read，回调函数是readQueryFromClient
 
 ###### 解析client的请求命令：
 	执行函数是：processMultibulkBuffer;
 	redisClient的缩写是c;
 	读出的数据存在c->querybuf中;
 	解析的字段存放在c->argv中;
+	
 	例如："*3\r\n$5\r\nhmget\r\n$4\r\nhfoo\r\n$6\r\nfield1\r\n"
 	解析结果是: 
 	argv[0] = "hmget", 

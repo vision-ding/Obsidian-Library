@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis源码问题.md",
+                "file": "redis的网络通信.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis源码问题.md",
+                "file": "redis的网络通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis源码问题.md",
+                "file": "redis的网络通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis源码问题.md"
+                "file": "redis的网络通信.md"
               }
             }
           },
@@ -156,18 +156,25 @@
   },
   "active": "99f3791a86f224a9",
   "lastOpenFiles": [
-    "slots to-do.md",
-    "redis源码问题.md",
+    "outline/redis源码分析.md",
+    "skm付费玩家的名单.md",
+    "outline/slots to-do.md",
+    "redis的数据结构.md",
+    "redis的网络通信.md",
+    "obsidian的设置.md",
+    "outline/个人总结.md",
+    "outline/Obsidian的同步.md",
+    "outline/nginx源码分析.md",
+    "2.9 爬山 碎片化思考.md",
+    "2023年的意外收获.md",
+    "outline",
+    "耐住性子，努力向前.md",
     "如何在iSH中操作git仓库.md",
     "如何在iSH中配置git环境.md",
     "README.md",
-    "耐住性子，努力向前.md",
-    "about obsidian/Obsidian的同步.md",
-    "about obsidian/obsidian在移动端的同步方法.md",
-    "about obsidian/obsidian 在PC间的同步方法.md",
+    "obsidian在移动端的同步方法.md",
+    "obsidian 在PC间的同步方法.md",
     "2.11.md",
-    "2.9 爬山 碎片化思考.md",
-    "about obsidian/obsidian的设置.md",
     "Obsidian入门.md",
     "slots",
     "about obsidian",
